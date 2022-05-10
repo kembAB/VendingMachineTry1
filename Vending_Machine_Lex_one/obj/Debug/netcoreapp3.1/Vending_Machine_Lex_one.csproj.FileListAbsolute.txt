@@ -1,0 +1,14 @@
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\bin\Debug\netcoreapp3.1\Vending_Machine_Lex_one.exe
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\bin\Debug\netcoreapp3.1\Vending_Machine_Lex_one.deps.json
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\bin\Debug\netcoreapp3.1\Vending_Machine_Lex_one.runtimeconfig.json
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\bin\Debug\netcoreapp3.1\Vending_Machine_Lex_one.runtimeconfig.dev.json
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\bin\Debug\netcoreapp3.1\Vending_Machine_Lex_one.dll
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\bin\Debug\netcoreapp3.1\Vending_Machine_Lex_one.pdb
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.csproj.AssemblyReference.cache
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.AssemblyInfoInputs.cache
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.AssemblyInfo.cs
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.csproj.CoreCompileInputs.cache
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.dll
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.pdb
+C:\Users\haile\source\repos\Vending_Machine_Lex_one\Vending_Machine_Lex_one\obj\Debug\netcoreapp3.1\Vending_Machine_Lex_one.genruntimeconfig.cache
